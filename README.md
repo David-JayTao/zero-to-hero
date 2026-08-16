@@ -1,1 +1,1 @@
-self learning notes：https://github.com/karpathy/nn-zero-to-hero.git
+self learning notes，lecture：https://github.com/karpathy/nn-zero-to-hero.git
